@@ -18,6 +18,6 @@
 <img src="img/preview.png">
 <br><br>
 <br><br>
-<strong>SUPPORT</strong>
+<!--<strong>SUPPORT</strong>
 <br><br>
-<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="70" width="250"></a>
+<a href="https://www.buymeacoffee.com/yoleo" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="70" width="250"></a>-->
